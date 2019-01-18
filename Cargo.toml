@@ -13,3 +13,5 @@ name = "blockchain"
 path = "src/main.rs"
 
 [dependencies]
+hex = "0.3.2"
+crypto-hash = "0.3.3"
